@@ -48,8 +48,8 @@ bqplot
 # Local file storage
 jupyterlab-filesystem-access==0.5.3
 
+# Ability to load URLs into JupyterLite with fromUrl
+jupyterlab-open-url-parameter==0.1.0
+
 # Common libraries
 pandas>=2.1.1
-
-
-comm
